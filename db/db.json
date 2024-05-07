@@ -77,28 +77,5 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": [
-    {
-      "id": "fcb9",
-      "name": "Luis",
-      "bread": "Italiano Branco",
-      "meet": "Alcatra",
-      "optional": [
-        "Bacon",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "3ecf",
-      "name": "Luis",
-      "bread": "3 Queijos",
-      "meet": "Maminha",
-      "optional": [
-        "Cebola roxa",
-        "Salame"
-      ],
-      "status": "Solicitado"
-    }
-  ]
+  "burgers": []
 }
